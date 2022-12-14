@@ -1,5 +1,3 @@
-<h3 align="center">Front-End Developer | Designer </h3>
-
 <div>
   <img src="https://github.com/dassatavares/dassatavares/blob/main/Card.jpg" />
 </div>
