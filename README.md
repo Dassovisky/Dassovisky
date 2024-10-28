@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **typescript**
 
-- 👨‍💻 Linkedin [https://www.linkedin.com/in/dassatavares/](https://www.linkedin.com/in/dassatavares/)
-
-- 📝 Behance [https://www.behance.net/dassatavares](https://www.behance.net/dassatavares)
-
 - 💬 My skills **react, nextjs, figma, UI/UX**
 
 - 📫 Contact me **dassaevtavares@gmail.com**
+
+- 📝 Behance [https://www.behance.net/dassatavares](https://www.behance.net/dassatavares)
+
+- 👨‍💻 Linkedin [https://www.linkedin.com/in/dassatavares/](https://www.linkedin.com/in/dassatavares/)
 
 - 📄 Figma [https://www.figma.com/@dassatavares](https://www.figma.com/@dassatavares)
 
