@@ -11,7 +11,7 @@
 
 - 📝 Behance [https://www.behance.net/dassatavares](https://www.behance.net/dassatavares)
 
-- 👨‍💻 Linkedin [https://www.linkedin.com/in/dassatavares/](https://www.linkedin.com/in/dassatavares/)
+- 👨‍💻 Linkedin [https://www.linkedin.com/in/dassatavares/](https://www.linkedin.com/in/dassatavares)
 
 - 📄 Figma [https://www.figma.com/@dassatavares](https://www.figma.com/@dassatavares)
 
